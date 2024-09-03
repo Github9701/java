@@ -1,0 +1,4 @@
+The Java InputStream class is the superclass of all input streams. 
+The input stream is used to read data from numerous input devices like the keyboard, network, etc. 
+InputStream is an abstract class, and because of this, it is not useful by itself.
+ However, its subclasses are used to read data.
