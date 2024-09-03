@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=webservices/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.webservices.service{UserServiceInter.java[UserServiceInter" modifiers="513" timestamp="1722502136317"/>
+    <typeInfo handle="=employproj/C:\/Users\/Nirmala\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.4.9.Final\/hibernate-core-6.4.9.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.4.9.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.service.spi(ServiceContributor.class[ServiceContributor" modifiers="1537" timestamp="1722344972877"/>
+    <typeInfo handle="=employproj/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.employs.services{ServiceInterface.java[ServiceInterface" modifiers="513" timestamp="1722561372369"/>
+    <typeInfo handle="=springboot-blog-rest-api/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.posts.service{PostService.java[PostService" modifiers="513" timestamp="1723039513092"/>
+    <typeInfo handle="=userproj/C:\/Users\/Nirmala\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.2.8\/spring-data-jpa-3.2.8.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.2.8=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1722344973379"/>
+    <typeInfo handle="=customerproj/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.customer.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1723042053234"/>
+</typeInfoHistroy>

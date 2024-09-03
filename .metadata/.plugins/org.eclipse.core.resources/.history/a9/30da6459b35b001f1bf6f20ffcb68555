@@ -1,0 +1,21 @@
+package com.employ.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.employ.service.EmployeeService;
+import com.employ.service.impl.EmployeeServiceImpl;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+@RestController
+@RequestMapping("/api/employees")
+public class EmployeeController {
+	
+	private EmployeeService empservice;
+	
+	public ResponseEntity<T>
+
+}
